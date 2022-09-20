@@ -1,3 +1,5 @@
+![logo pixel](https://user-images.githubusercontent.com/47929658/191157581-08f1fd6f-5941-4862-8843-1a1e8d1a27d5.png)
+
 # QuVI---Quantum-Circuit-Toolkit
 
 Requirements:
