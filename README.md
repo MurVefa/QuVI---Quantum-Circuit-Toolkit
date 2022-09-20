@@ -1,7 +1,7 @@
 # QuVI---Quantum-Circuit-Toolkit
 
 Requirements:
-LabVIEW >= 2016 (32 and 64 bit)
+LabVIEW >= 2016 (32 or 64 bit)
 
 This toolkit, based on the Quantum Circuit Model, is an attempt to bring quantum programming to LabVIEW. With an unusual design approach, it allows us to compose and simulate quantum algorithms while using the programming tools of LabVIEW. At the current stage, it is more of a proof-of-concept project to be introduced among the related community and a call for collaboration.  Any feedback, therefore, would be greatly appreciated. 
 
