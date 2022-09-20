@@ -1,4 +1,4 @@
-![Header image](https://user-images.githubusercontent.com/47929658/191163227-90227c24-0622-46c9-aec5-7e4ca547f025.png)
+![logo pixel](https://user-images.githubusercontent.com/47929658/191157581-08f1fd6f-5941-4862-8843-1a1e8d1a27d5.png)
 
 # QuVI---Quantum-Circuit-Toolkit
 
@@ -11,3 +11,15 @@ With extensibility and modularity in mind, the base calculation VIs (gates) are 
 
 
 After installation, open the “Guide” VI from the “Examples” palette for an introductory guide and explore other available examples to see them in action.  
+
+Screenshots:
+
+![Screenshot04](https://user-images.githubusercontent.com/47929658/191156591-6685a6ad-1f0d-4c06-9297-ba3182541481.png)
+
+![Screenshot03](https://user-images.githubusercontent.com/47929658/191156647-e2f38b9b-9f71-43bd-9079-007cc876cd83.png)
+
+![Screenshot02](https://user-images.githubusercontent.com/47929658/191156964-f6ac80ec-d0c9-42c7-9106-56dcdb6621fd.png)
+
+![Screenshot01](https://user-images.githubusercontent.com/47929658/191156685-63c28541-d3a9-4723-aaa5-4fc8a895d94b.png)
+
+![Screenshot05](https://user-images.githubusercontent.com/47929658/191157176-412fefa2-7a56-4b4a-8c91-13bcd3e50033.png)
