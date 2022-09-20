@@ -9,3 +9,14 @@ With expandability and modularity in mind, the base calculation VIs (gates) are 
 
 
 After installation, open the “Guide” VI from the “Examples” palette for an introductory guide and explore other available examples to see them in action.  
+
+Screenshots:
+
+![Screenshot04](https://user-images.githubusercontent.com/47929658/191156591-6685a6ad-1f0d-4c06-9297-ba3182541481.png)
+
+![Screenshot03](https://user-images.githubusercontent.com/47929658/191156647-e2f38b9b-9f71-43bd-9079-007cc876cd83.png)
+
+![Screenshot02](https://user-images.githubusercontent.com/47929658/191156660-3a61887b-e033-4eaa-85ee-187d3621268e.png)
+
+![Screenshot01](https://user-images.githubusercontent.com/47929658/191156685-63c28541-d3a9-4723-aaa5-4fc8a895d94b.png)
+
