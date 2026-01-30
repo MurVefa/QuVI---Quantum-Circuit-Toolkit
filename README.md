@@ -1,5 +1,5 @@
-![logo pixel](https://user-images.githubusercontent.com/47929658/191157581-08f1fd6f-5941-4862-8843-1a1e8d1a27d5.png)
 
+<img width="320" height="320" alt="QuVI Logo 01_b" src="https://github.com/user-attachments/assets/f4dba534-a116-4ca5-aa1f-0b1cf24a5472" />
 
 Requirements:
 LabVIEW >= 2020 (32 or 64 bit)
