@@ -11,7 +11,7 @@ LabVIEW >= 2020 (32 or 64 bit)
 ## 📄 Associated Publication
 This toolkit accompanies the paper:
 > **"From Block Diagrams to Bloch Spheres: Graphical Quantum Circuit Simulation in LabVIEW"**
-> *Murtaza Vefadar, Gebze Technical University, 2025.*
+> *Murtaza Vefadar, Gebze Technical University, 2026.*
 
 ## 🚀 Download & Installation
 The easiest way to install QuVI is via the VI Package Manager (VIPM):
