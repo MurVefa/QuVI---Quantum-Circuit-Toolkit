@@ -15,7 +15,7 @@ This toolkit accompanies the paper:
 
 ## 🚀 Download & Installation
 The easiest way to install QuVI is via the VI Package Manager (VIPM):
-[Download QuVI 1.0 on VIPM.io](https://www.vipm.io/package/murtaza_vefadar_lib_quvi___quantum_circuit_toolkit/)
+[Download QuVI on VIPM.io](https://www.vipm.io/package/murtaza_vefadar_lib_quvi___quantum_circuit_toolkit/)
 
 ## ✨ Key Features
 
