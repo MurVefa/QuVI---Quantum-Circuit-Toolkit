@@ -79,7 +79,6 @@
 			<Item Name="Probability Bar.vi" Type="VI" URL="../View Result/Probability Bar.vi"/>
 			<Item Name="Sim Data.vi" Type="VI" URL="../View Result/Sim Data.vi"/>
 		</Item>
-		<Item Name="Test QuVI.vi" Type="VI" URL="../Test QuVI.vi"/>
 		<Item Name="Package Dependencies" Type="IIO Ladder Diagram">
 			<Property Name="NI.SortType" Type="Int">0</Property>
 		</Item>
