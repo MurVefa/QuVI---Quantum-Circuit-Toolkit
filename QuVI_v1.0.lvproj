@@ -70,7 +70,7 @@
 		<Item Name="Examples" Type="Folder">
 			<Item Name="Teleportation.vi" Type="VI" URL="../Examples/Teleportation.vi"/>
 			<Item Name="Superdense Coding.vi" Type="VI" URL="../Examples/Superdense Coding.vi"/>
-			<Item Name="Grover Search 4.vi" Type="VI" URL="../Examples/Grover Search 4.vi"/>
+			<Item Name="Grover Search.vi" Type="VI" URL="../Examples/Grover Search.vi"/>
 			<Item Name="QFT4.vi" Type="VI" URL="../Examples/QFT4.vi"/>
 		</Item>
 		<Item Name="View Result" Type="Folder">
